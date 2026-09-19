@@ -1,0 +1,13 @@
+name = "Wizards (RPG Series)"
+filename = "wizards-forge-3.1.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NkGaQMDA/versions/NbcHhn8P/wizards-forge-3.1.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "e1528a816c44e3c316aec461abad3ee421aa5d9cf8f4ef00c1702903f466e41cb82a9668cb0bdac030443efbbd319504c5703734820e971a7544472aba1ea755"
+
+[update]
+[update.modrinth]
+mod-id = "NkGaQMDA"
+version = "NbcHhn8P"

@@ -1,0 +1,13 @@
+name = "Jewelry (RPG Series)"
+filename = "jewelry-forge-2.4.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sNJAIjUm/versions/xswBYA4q/jewelry-forge-2.4.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "ce41e9e8eb9975b4fbd0f4286340f4f2f37ff41d8c24618cbc7144afe4bc034ffc9556fa3141dd5791fe409f37b6004fef81d66e8d507a26fdd8bf996abec268"
+
+[update]
+[update.modrinth]
+mod-id = "sNJAIjUm"
+version = "xswBYA4q"

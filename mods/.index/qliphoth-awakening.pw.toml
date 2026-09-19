@@ -1,0 +1,22 @@
+filename = 'fdbosses-3.1.0.3-1.20.1.jar'
+name = 'Qliphoth Awakening'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.1.0.3'
+
+[download]
+hash = '67774e3259df3d407025463f53378bc1feef9975c9bd6bf249088a4083183b96ab1310f42bc70fd94d328418fa2403222b9f8de7e46c4df78ad11e29f05d8f63'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/7fqQYwaC/versions/EjoywCe2/fdbosses-3.1.0.3-1.20.1.jar'
+
+[update.modrinth]
+mod-id = '7fqQYwaC'
+version = 'EjoywCe2'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LcmGQfK2'
+type = 'REQUIRED'
+version = 'bZKs2lFt'

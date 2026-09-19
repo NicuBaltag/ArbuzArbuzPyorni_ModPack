@@ -1,0 +1,13 @@
+name = "Archers (RPG Series)"
+filename = "archers-forge-3.1.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QgooUXAJ/versions/AnJTxUvK/archers-forge-3.1.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "234d4703ba7585ffafd23ca903dacd5c392e63fe66936c703436eec57f15a1ce2d998469992c242cac1503a284744c6e2d85fa31c6f56d386bc32d012e713ab3"
+
+[update]
+[update.modrinth]
+mod-id = "QgooUXAJ"
+version = "AnJTxUvK"

@@ -1,0 +1,13 @@
+name = "HexxyPlanes"
+filename = "hexxyplanes-forge-0.2.3+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JrxK0WJm/versions/j54PUuaN/hexxyplanes-forge-0.2.3%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "58b3ed6e41f1ac8c6216f8b36c69cadf1aa4c91a2d0b96b8f2f661e51fffcf44e103fdc50f593a0d8ddeaf62d26aacbeb38006b09098a1e2812d2326213ba823"
+
+[update]
+[update.modrinth]
+mod-id = "JrxK0WJm"
+version = "j54PUuaN"

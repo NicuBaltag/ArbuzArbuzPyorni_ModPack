@@ -1,0 +1,41 @@
+filename = 'hexconnect-1.0.2.jar'
+name = 'HexConnect'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.2'
+
+[download]
+hash = '02fbaead96629c64fcd768b82b6bce7168500934e63d604f5db8c406e36db5c3c0f33bd72366d14bb9649c323a1238ad2233b1fa7b0e7846ce2656012b213d2d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/auntLagT/versions/VOHFFwPM/hexconnect-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'auntLagT'
+version = 'VOHFFwPM'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nTW3yKrm'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u58R1TMW'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'K01OU20C'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Ha28R6CL'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'FYpiwiBR'
+type = 'REQUIRED'

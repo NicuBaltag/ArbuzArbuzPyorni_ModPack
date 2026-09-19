@@ -1,0 +1,13 @@
+name = "Item Restrictions"
+filename = "itemrestrictions-1.2.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rU60qFq2/versions/bKb3JgIY/itemrestrictions-1.2.1-forge.jar"
+hash-format = "sha512"
+hash = "fa101e975b3488a74f56a7326d8d3eb7b90767e129baeb9fd81f67db73e1b6de4acbd931d30b83a952d452d32c220a05c4da7ba90cd459ec1f699946b41aa4cc"
+
+[update]
+[update.modrinth]
+mod-id = "rU60qFq2"
+version = "bKb3JgIY"

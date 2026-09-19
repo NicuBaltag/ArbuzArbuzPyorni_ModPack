@@ -1,0 +1,13 @@
+name = "Arbuz Arbuz Pyorni Mod Pack"
+author = "YeargLitch&Arbuz"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3573aea603f7400099ab44a2b1fbefed97fe2dd8776a3d112f57f7a94454f1ce"
+
+[versions]
+forge = "47.4.16"
+minecraft = "1.20.1"

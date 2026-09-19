@@ -1,0 +1,13 @@
+name = "Armor Model API"
+filename = "armor_model_api-forge-1.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/onz2NN2n/versions/HzpM9IVR/armor_model_api-forge-1.0.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "d8ae7bf65e4673e3412521ad5b8e7fd1e39857c59eab8529b796ec62f8196cb706ffcf6e7a0dd7d936dfc66cd89c0ba9fa8abf2dd3130c3bbb5914e40824a1ff"
+
+[update]
+[update.modrinth]
+mod-id = "onz2NN2n"
+version = "HzpM9IVR"

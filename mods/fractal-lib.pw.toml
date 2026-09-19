@@ -1,0 +1,13 @@
+name = "Fractal"
+filename = "fractal-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/osYR3F5j/versions/rBFEjAiy/fractal-1.2.0.jar"
+hash-format = "sha512"
+hash = "8020181b082c2f11e71ca1a7867108aad17b2daae740f060517b8a7ee44b0cb94b7e2da11aa7d5a74f837a4e2506ef9e6745ffb7b9e1d1f0c46ae6854fdc7b2d"
+
+[update]
+[update.modrinth]
+mod-id = "osYR3F5j"
+version = "rBFEjAiy"

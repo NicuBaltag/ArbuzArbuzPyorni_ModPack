@@ -1,0 +1,13 @@
+name = "Spell Power Attributes"
+filename = "spell_power-forge-1.6.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8ooWzSQP/versions/USJAOCPM/spell_power-forge-1.6.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "5b28f30b2ca4026e408fc4809ad29aefd9e13c5a89671dcbde7c428cda63ca17a9fa0689cfaef8298eb3f53ea320f283d5b5e24b2dbb3d6665e3e1db21f04f6a"
+
+[update]
+[update.modrinth]
+mod-id = "8ooWzSQP"
+version = "USJAOCPM"

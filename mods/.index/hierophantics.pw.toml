@@ -1,0 +1,33 @@
+filename = 'hierophantics-forge-1.4.0.jar'
+name = 'Hierophantics'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Hierophantics 1.4.0 [Forge]'
+
+[download]
+hash = 'ca9130139f165f752f533f3857a717b8cb5d55d4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8756123
+project-id = 1293802
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '351264'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '569849'
+type = 'REQUIRED'

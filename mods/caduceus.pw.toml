@@ -1,0 +1,13 @@
+name = "Caduceus"
+filename = "caduceus-forge-0.3.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q6Hj9z4p/versions/AXyIpMTC/caduceus-forge-0.3.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "3df9bcc84bb89872645c111e9c33d383f96e5395690e9f40fabfd8030f883a80e3b3efb64db38045524703d2dcbb45a14673d9f448e3f2a9e665cd6b1780afc1"
+
+[update]
+[update.modrinth]
+mod-id = "Q6Hj9z4p"
+version = "AXyIpMTC"

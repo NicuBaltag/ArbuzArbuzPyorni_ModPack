@@ -1,0 +1,13 @@
+name = "Paladins & Priests (RPG Series)"
+filename = "paladins-forge-3.1.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FxXkHaLe/versions/OCxPfS49/paladins-forge-3.1.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "aa9908e4f71b9722d7a02376a15386ca885eeb6ee9165baab7029ce0facd3af6e6d8eb6104dd4401f329693af2ae01afe76aade417494e78a28ab0bb836c5be2"
+
+[update]
+[update.modrinth]
+mod-id = "FxXkHaLe"
+version = "OCxPfS49"

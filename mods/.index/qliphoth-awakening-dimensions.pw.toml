@@ -1,0 +1,18 @@
+filename = 'qliphoth_awakening_dimensions-forge1.20.1-1.1.1-mc1.20.1-forge.jar'
+name = 'qliphoth-awakening-dimensions'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.1'
+
+[download]
+hash = '63c25bc30f0bb203f612993224a3f7292fdc5c558c8f49a48aa77331a081c780cc0dbe29ea9f453046e05e88d711808b1b67d11d2d646ae5790cf28f304ddace'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/7Q5lvNch/versions/YavaPdc3/qliphoth_awakening_dimensions-forge1.20.1-1.1.1-mc1.20.1-forge.jar'
+
+[update.modrinth]
+mod-id = '7Q5lvNch'
+version = 'YavaPdc3'

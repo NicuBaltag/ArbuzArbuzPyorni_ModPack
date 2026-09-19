@@ -1,0 +1,13 @@
+name = "Runes"
+filename = "runes-forge-1.3.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lP9Yrr1E/versions/tvDVzY2Y/runes-forge-1.3.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "e4a4fdf250bb527e4d1942b0b9d0afa43f0f3f05a444a2ef5a3029941283f18c8144959c6c3434118556aa4b8fb4b58193f3e4d4ceae4f576d5a44ee21dd3f32"
+
+[update]
+[update.modrinth]
+mod-id = "lP9Yrr1E"
+version = "tvDVzY2Y"

@@ -1,0 +1,13 @@
+name = "HexGender"
+filename = "hexgender-forge-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eDrq21Uc/versions/lw27vN6C/hexgender-forge-1.0.4.jar"
+hash-format = "sha512"
+hash = "016230102cb4f884433e7e50ca9a242e711eb12324aa7c5084320161aca36770967a39ef5d5793eb6b5dcffecda96828ee7f4c2b18a3cfa03e599cb79cb656fb"
+
+[update]
+[update.modrinth]
+mod-id = "eDrq21Uc"
+version = "lw27vN6C"

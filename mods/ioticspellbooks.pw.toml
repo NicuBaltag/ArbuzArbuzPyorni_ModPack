@@ -1,0 +1,13 @@
+name = "Iotic Spellbooks"
+filename = "ioticspellbooks-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y928i4cC/versions/wQ5ZBE9g/ioticspellbooks-1.1.0.jar"
+hash-format = "sha512"
+hash = "3564d9e03d1f59a83cd1b07124f3c8ee8a8b9376ba1c57f6ca771ed0493c1b256a605df9547eff789f9432fdedb6bc832577167b4ce33584c939f571eacf96f0"
+
+[update]
+[update.modrinth]
+mod-id = "Y928i4cC"
+version = "wQ5ZBE9g"

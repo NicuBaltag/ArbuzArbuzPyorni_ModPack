@@ -1,0 +1,13 @@
+name = "Behemoths Cataclysm"
+filename = "behemothscataclysm-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ruQESQ1A/versions/jHZDic2M/behemothscataclysm-1.0.0.jar"
+hash-format = "sha512"
+hash = "8417d8b8334affffd71c6136632914a2252eccaca330a2555578ecaa157bf66e5adc01712721c19528a6e1acb97efef7f3e53bb1a602732d6d6244037a9115a7"
+
+[update]
+[update.modrinth]
+mod-id = "ruQESQ1A"
+version = "jHZDic2M"

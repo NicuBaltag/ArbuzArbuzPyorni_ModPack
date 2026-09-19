@@ -1,0 +1,25 @@
+filename = 'gazebo-forge-2.2.0+1.20.1.jar'
+name = 'Gazebos (RPG Series)'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.2.0+1.20.1-forge'
+
+[download]
+hash = 'e9af6a03550d92b4749355547254fd1704724b4b7dd80152eff8417887c3e7b3ea213d572da346d82d2c2ff0a01b1a3ff22017867a3f459915c81db8bea737a1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XIpMGI6r/versions/FYuPeom8/gazebo-forge-2.2.0%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'XIpMGI6r'
+version = 'FYuPeom8'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'XvoWJaA2'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LrYZi08Q'
+type = 'REQUIRED'

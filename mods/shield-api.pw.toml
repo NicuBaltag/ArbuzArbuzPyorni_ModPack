@@ -1,0 +1,13 @@
+name = "Shield API"
+filename = "shield_api-forge-2.2.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/y9clIFY4/versions/ryaMETSE/shield_api-forge-2.2.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "17b1cf2ced911786f9553c1e499d062e52e218153720815f1e3e1aea404b85aef9b88dec5387eecbfb3a9ded152ade7639449f5b94f2273ee1a4443c29ac96e8"
+
+[update]
+[update.modrinth]
+mod-id = "y9clIFY4"
+version = "ryaMETSE"

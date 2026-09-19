@@ -1,0 +1,13 @@
+name = "Arc Lib"
+filename = "arc-1.7.2-1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H3eKhxi7/versions/oLANnkRd/arc-1.7.2-1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "5498b282f12e30fa2f6a2c4d47ca5ad84b22167c1cd3babd0ab8b44f404893feb73a67a93edc43f0d3bec9cc58c61b02f3bf1c0c07561aced3323cdf1cc695a7"
+
+[update]
+[update.modrinth]
+mod-id = "H3eKhxi7"
+version = "oLANnkRd"

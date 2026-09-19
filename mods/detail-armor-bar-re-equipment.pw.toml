@@ -1,0 +1,13 @@
+name = "Detail Armor Bar Re-equipment"
+filename = "Detail Armor Bar Re-equipment-2.7.0+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tIjpvPBH/versions/4RWgfIKM/Detail%20Armor%20Bar%20Re-equipment-2.7.0%2B1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "9aee2fb3e94ebb43f5c9bbeab8e7f122c5e76f36566de8c7d01ba29c46cb5f33c3bd56b38dd32b2a22bae9ac864f732efc6bd3b920aa2c7ca872bb73f3a522a9"
+
+[update]
+[update.modrinth]
+mod-id = "tIjpvPBH"
+version = "4RWgfIKM"

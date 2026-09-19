@@ -1,0 +1,18 @@
+filename = 'lib39-forge-1.20.1-0.5.6.jar'
+name = 'Lib 39'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-0.5.6'
+
+[download]
+hash = '73028a07e5fca75a9f4f70c3d91fd9e19543679a8a97acf6198874f81fa9576db55a7453bbe3071110599a0663e3ac97674cd13bee0681e13d8e73be22c504d0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/n65Vs1Vk/versions/M4tezU91/lib39-forge-1.20.1-0.5.6.jar'
+
+[update.modrinth]
+mod-id = 'n65Vs1Vk'
+version = 'M4tezU91'

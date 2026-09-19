@@ -1,0 +1,13 @@
+name = "Lib 39"
+filename = "lib39-forge-1.20.1-0.5.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n65Vs1Vk/versions/M4tezU91/lib39-forge-1.20.1-0.5.6.jar"
+hash-format = "sha512"
+hash = "73028a07e5fca75a9f4f70c3d91fd9e19543679a8a97acf6198874f81fa9576db55a7453bbe3071110599a0663e3ac97674cd13bee0681e13d8e73be22c504d0"
+
+[update]
+[update.modrinth]
+mod-id = "n65Vs1Vk"
+version = "M4tezU91"

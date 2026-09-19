@@ -1,0 +1,13 @@
+name = "Hex Keys"
+filename = "hexkeys-forge-1.20.1-0.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OuSEOOSY/versions/ofSu0XwL/hexkeys-forge-1.20.1-0.1.6.jar"
+hash-format = "sha512"
+hash = "283b69f72796844096e4973b073275fced1ae56245a7d819acfc1961f1af39e523a37a12753ce190c4060a050180f123209a88d9692f527220f14a9dfd16f9ce"
+
+[update]
+[update.modrinth]
+mod-id = "OuSEOOSY"
+version = "ofSu0XwL"

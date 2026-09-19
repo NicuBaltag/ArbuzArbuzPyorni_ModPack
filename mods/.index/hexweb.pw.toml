@@ -1,0 +1,37 @@
+filename = 'hexweb-forge-1.1.0.jar'
+name = 'HexWeb'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.0-forge'
+
+[download]
+hash = 'ed15403c9f7e14a0d421680b6fb44889e0b7d4f87b64d32f63aeca5986ef973f75363b714907ddc447d59b233c13b688bb170e92dc7f3a453dd9944abdc29aa7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tJ3gEnWO/versions/tBdO9LYO/hexweb-forge-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'tJ3gEnWO'
+version = 'tBdO9LYO'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'xWqLqLJ4'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nTW3yKrm'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ordsPcFz'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Jmt7p37B'
+type = 'REQUIRED'

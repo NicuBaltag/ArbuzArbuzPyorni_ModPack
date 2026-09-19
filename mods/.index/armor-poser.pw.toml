@@ -1,0 +1,18 @@
+filename = 'ArmorPoser-forge-1.20.1-2.2.3.jar'
+name = 'Armor Poser'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ArmorPoser-forge-1.20.1-2.2.3.jar'
+
+[download]
+hash = '000138106960c7d514d18b4bc315f3b2378f4955'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7782621
+project-id = 450663

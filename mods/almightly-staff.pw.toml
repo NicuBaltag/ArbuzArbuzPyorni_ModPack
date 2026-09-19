@@ -1,0 +1,13 @@
+name = "Almightly Staff"
+filename = "almightly_staff-forge-0.0.5.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cNfc18lF/versions/OhNKiN1K/almightly_staff-forge-0.0.5.21.jar"
+hash-format = "sha512"
+hash = "2b161d4b40921d8f0239eecad62941085743fe3dcef5e2b3c020829144447dc324e0603d105e6ef95bbe20f3ebfe8863374db9ddb1d4e06e4a35595bfd9ec044"
+
+[update]
+[update.modrinth]
+mod-id = "cNfc18lF"
+version = "OhNKiN1K"

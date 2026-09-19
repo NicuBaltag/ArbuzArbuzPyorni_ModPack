@@ -1,0 +1,21 @@
+filename = 'allthetrims-3.4.3-forge+1.20.1.jar'
+name = 'All The Trims'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.4.3'
+
+[download]
+hash = '97e42cd698bc390dc02361182c7ec5550178db3e4176471d5c858f51529adc97ab83459fb7899478969966625ae0eb8331e333834d22abd43c693b5e4fde9dd0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pnsUKrap/versions/Hcatfmo7/allthetrims-3.4.3-forge%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'pnsUKrap'
+version = 'Hcatfmo7'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'
