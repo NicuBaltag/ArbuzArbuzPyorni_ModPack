@@ -1,0 +1,14 @@
+[14:11:30] [Render thread/ERROR] [lapisworks/]: Why the fuck have the flags not been chosen yet?!
+[14:11:31] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] возникло исключение (java.lang.RuntimeException: An AttributeMap object was modified without a set owner!). Это ошибка в моде.
+[14:11:32] [Render thread/ERROR] [lapisworks/]: Why the fuck have the flags not been chosen yet?!
+[14:11:32] [Render thread/ERROR] [lapisworks/]: Why the fuck have the flags not been chosen yet?!
+[14:11:32] [Render thread/ERROR] [lapisworks/]: Why the fuck have the flags not been chosen yet?!
+[14:11:34] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] возникло исключение (java.lang.RuntimeException: An AttributeMap object was modified without a set owner!). Это ошибка в моде.
+[14:11:37] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] возникло исключение (java.lang.RuntimeException: An AttributeMap object was modified without a set owner!). Это ошибка в моде.
+[14:11:39] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] возникло исключение (java.lang.RuntimeException: An AttributeMap object was modified without a set owner!). Это ошибка в моде.
+[14:11:40] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] возникло исключение (java.lang.RuntimeException: An AttributeMap object was modified without a set owner!). Это ошибка в моде.
+[14:11:42] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] Гамбит Библиотекаря: -: ожидалось 1 или больше аргументов, но стек был пуст
+[14:11:57] [Render thread/ERROR] [lapisworks/]: Why the fuck have the flags not been chosen yet?!
+[14:11:57] [Render thread/ERROR] [lapisworks/]: Why the fuck have the flags not been chosen yet?!
+[14:12:00] [Render thread/ERROR] [lapisworks/]: Why the fuck have the flags not been chosen yet?!
+[14:12:00] [Render thread/INFO] [minecraft/ChatComponent]: [System] [CHAT] возникло исключение (java.lang.RuntimeException: An AttributeMap object was modified without a set owner!). Это ошибка в моде.

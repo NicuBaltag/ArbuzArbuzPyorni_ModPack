@@ -93,6 +93,10 @@ file = "kubejs/startup_scripts/proto-core.js"
 hash = "c7c7335168e22c75578955535c7af0ee608ad285916e34227d2fb192e4191657"
 
 [[files]]
+file = "log.txt"
+hash = "c13b5040e83125999b8b234b99076751c3381492360bcfaec7f00dd85a5fcd1d"
+
+[[files]]
 file = "mods/ArmorPoser-forge-1.20.1-2.2.3.jar"
 hash = "2a57e875070b956ca6143edd6706afba6c550e3229e28324ceece61f5793fecc"
 
@@ -779,11 +783,6 @@ metafile = true
 [[files]]
 file = "mods/l_enders-cataclysm.pw.toml"
 hash = "dfdd246954f9bcfbff66668558b17ba5b3e75a12ba6031c441750a472670fbd8"
-metafile = true
-
-[[files]]
-file = "mods/lapisworks.pw.toml"
-hash = "b68ba1456714c4aa9c4f8b2042ceb49a2f0eb75ba9343188403399b55f157343"
 metafile = true
 
 [[files]]
